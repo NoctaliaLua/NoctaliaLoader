@@ -2,4 +2,4 @@
 The loader for Noctalia scripts
 
 # Supported Games
-Steal A Verity \n Build The Pyramid
+Steal A Verity, Build The Pyramid
