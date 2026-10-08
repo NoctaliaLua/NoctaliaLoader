@@ -5,5 +5,5 @@ elseif game.PlaceId == 107164765081465 then
 elseif game.PlaceId == 93777959495249 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/NoctaliaLua/NoctaliaScripts/refs/heads/main/StealAVerity.lua"))()
 else
-    game.Players.LocalPlayer:Kick("Unsupported game, Read [ https://github.com/NoctaliaLua/NoctaliaLoader/blob/main/README.md ] For supported games")
+    game.Players.LocalPlayer:Kick("Unsupported game, Read https://github.com/NoctaliaLua/NoctaliaLoader/blob/main/README.md For supported games")
 end
